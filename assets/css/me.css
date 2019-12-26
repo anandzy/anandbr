@@ -188,11 +188,11 @@ body.page-template-page-fullsingle-me {
     .bio {
       max-width: none; } }
   .bio a {
-    color: #CCCCCC;
+    color: rgb(39, 133, 39);
     -webkit-transition: 1s;
     transition: 1s; }
     .bio a:hover {
-      color: #FFFFFF;
+      color: rgb(170, 21, 21);
       -webkit-transition: 0.1s;
       transition: 0.1s; }
 
@@ -256,7 +256,7 @@ body.page-template-page-fullsingle-me {
     font-weight: 400;
     opacity: 0.4; }
     .credit p.copyright a {
-      color: #999999; }
+      color: #570909; }
 
 body.page-template-page-fullsingle-me.me-video {
   background-image: none; }
