@@ -115,10 +115,10 @@ body.page-template-page-fullsingle-me {
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
     margin-bottom: 28px;
-    color: #999999; }
+    color: #5c0847; }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
-        font-size: 32px;
+        font-size: 30px;
         line-height: 40px; } }
 
 .fs-me {
@@ -183,16 +183,17 @@ body.page-template-page-fullsingle-me {
   -webkit-animation: fadein 4s;
           animation: fadein 4s;
   letter-spacing: -1px;
+  color: rgb(153, 148, 148);
   max-width: 66%; }
   @media (max-width: 800px) {
     .bio {
       max-width: none; } }
   .bio a {
-    color: rgb(39, 133, 39);
+    color: #999999;
     -webkit-transition: 1s;
     transition: 1s; }
     .bio a:hover {
-      color: rgb(170, 21, 21);
+      color: #999999;
       -webkit-transition: 0.1s;
       transition: 0.1s; }
 
@@ -256,7 +257,7 @@ body.page-template-page-fullsingle-me {
     font-weight: 400;
     opacity: 0.4; }
     .credit p.copyright a {
-      color: #570909; }
+      color: #999999; }
 
 body.page-template-page-fullsingle-me.me-video {
   background-image: none; }
